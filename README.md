@@ -1,237 +1,235 @@
-# [Argon Dashboard Angular](https://demos.creative-tim.com/argon-dashboard-angular/?ref=ada-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Dashboard%20is%20a%20Free%20Bootstrap%20and%20Angular%20Dashboard%20made%20using%20angular-cli%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-dashboard-angular%20%23angular%20%23angular-cli%20%23argon%20%23argondesign%20%23angulardashboard%20%23argonangular%20%23angulardesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
+# [Vite Soft UI Dashboard](http://demos.creative-tim.com/vite-soft-ui-dashboard/?ref=readme-vitesud) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-soft-ui-dashboard&text=Check%20Vite%20Soft%20UI%20Dashboard%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#vue%20https://www.creative-tim.com/product/vite-soft-ui-dashboard)
 
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vue-soft-ui-dashboard.svg)](https://github.com/creativetimofficial/vite-soft-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/vite-soft-ui-dashboard.svg)](https://github.com/creativetimofficial/vite-soft-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/635/original/vite-soft-ui-dashboard.jpg)
 
- ![version](https://img.shields.io/badge/version-1.5.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-angular/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-angular/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
-
-
-![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-angular/argon-dashboard-angular.gif)
+Start your Development with an Innovative Admin Template for Bootstrap 5, VueJS 3, Vite and Vuex. If you like the look & feel of the hottest design trend right now, Soft UI, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
 
 **Fully Coded Components**
 
-Argon Dashboard Angular is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
+Vite Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using SASS files and classes. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
 
-**Complex Documentation**
+This Free Bootstrap 5 & VueJS 3 Dashboard is coming with prebuilt design blocks, so the development process is seamless,
+switching from our pages to the real website is very easy to be done.
 
-Each element is well presented in a very complex documentation. You can read more about the idea behind this [dashboard here](https://demos.creative-tim.com/argon-dashboard-angular/documentation/tutorial?ref=ada-github-readme). You can check the [components here](https://demos.creative-tim.com/argon-dashboard-angular/documentation/alerts?ref=ada-github-readme) and the [foundation here](https://demos.creative-tim.com/argon-dashboard-angular/documentation/colors?ref=ada-github-readme).
+View [all components here](https://www.creative-tim.com/learning-lab/vue/alerts/soft-ui-dashboard/).
+
+**Documentation built by Developers**
+
+Each element is well presented in very complex documentation.
+You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/vue/overview/soft-ui-dashboard/).
 
 **Example Pages**
 
-If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
+If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. Every page is spaced well, with attractive layouts and pleasing shapes. From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Vue Soft UI Dashboard has everything you need to quickly set up an amazing project.
 
+View [example pages here](https://demos.creative-tim.com/vue-soft-ui-dashboard/).
+
+**HELPFUL LINKS**
+
+- View [Github Repository](https://github.com/creativetimofficial/vue-soft-ui-dashboard)
+- Check [FAQ Page](https://www.creative-tim.com/faq)
+
+#### Special thanks
+
+During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
+
+- [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
+- [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
+- [Vuex](https://vuex.vuejs.org/) - Vuex is a state management pattern + library for Vue.js applications.
+
+Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
+- [Versions](#versions)
+- [Demo](#demo)
+- [Quick Start](#quick-start)
+- [Documentation](#documentation)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Resources](#resources)
+- [Reporting Issues](#reporting-issues)
+- [Technical Support or Questions](#technical-support-or-questions)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
 
-## Versions
+## Versions 
 
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-react)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-angular)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/nodejs-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-nodejs)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/laravel_logo.png" width="60" height="60" style="background:white"/>](https://www.creative-tim.com/product/argon-dashboard-laravel)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/sketch-logo.jpg" width="60" height="60" />](https://github.com/creativetimofficial/argon-dashboard/tree/sketch)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-soft-ui-dashboard?ref=readme-vitesud) 
+[<img src="https://www.creative-tim.com/assets/icon-vite-f0eb8f14d3ba1b47beeb44734ff11f3c4bf84b9a731892f2fbc34fc0442a8421.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vite-soft-ui-dashboard?ref=readme-vitesud)
 
-
-
-| HTML | React | Angular  |
-| --- | --- | ---  |
-| [![Argon Dashboard HTML](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/argon-dashboard.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard?ref=ada-github-readme)  | [![Argon Dashboard React](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-react/argon-dashboard-react.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-react?ref=ada-github-readme)  | [![Argon Dashboard Angular](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-angular/argon-dashboard-angular.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-angular?ref=ada-github-readme)
-
-| NodeJS | Laravel |
-| ---  | --- |
-| [![Argon Dashboard NodeJS](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-nodejs/argon-dashboard-nodejs.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-nodejs?ref=ada-github-readme) | [![Argon Dashboard Laravel](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-laravel/argon-dashboard-laravel.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-laravel?ref=ada-github-readme) |
+| VueJS | Vite |
+| ----- | ----- |
+| [![Vue Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/591/thumb/vue-soft-ui-dashboard.jpg)](http://demos.creative-tim.com/vue-soft-ui-dashboard/?ref=readme-vitesud)| [![Vite Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/635/thumb/vite-soft-ui-dashboard.jpg)](http://demos.creative-tim.com/vite-soft-ui-dashboard/?ref=readme-vitesud)|
 
 ## Demo
 
-| Dashboard Page | Icons Page | User Profile Page  | Tables Page | Login Page | Register Page  |
-| --- | --- | ---  | --- | --- | ---  |
-| [![Dashboard Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-angular/dashboard.png)](https://demos.creative-tim.com/argon-dashboard-angular/dashboard?ref=ada-github-readme)  | [![Icons Page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-angular/icons.png?raw=true)](https://demos.creative-tim.com/argon-dashboard-angular/icons?ref=ada-github-readme)  | [![User Profile Page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-angular/user.png?raw=true)](https://demos.creative-tim.com/argon-dashboard-angular/user?ref=ada-github-readme)  | [![Tables Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-angular/tables.png)](https://demos.creative-tim.com/argon-dashboard-angular/tables?ref=ada-github-readme)  | [![Login Page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-angular/login.png?raw=true)](https://demos.creative-tim.com/argon-dashboard-angular/login?ref=ada-github-readme)  | [![Register Page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-angular/register.png?raw=true)](https://demos.creative-tim.com/argon-dashboard-angular/register?ref=ada-github-readme)  
+- [Profile](https://demos.creative-tim.com/vite-soft-ui-dashboard/#/profile?ref=readme-vitesud)
+- [Sign In](https://demos.creative-tim.com/vite-soft-ui-dashboard/#/sign-in?ref=readme-vitesud)
+- [Sign Up](https://demos.creative-tim.com/vite-soft-ui-dashboard/#/sign-up?ref=readme-vitesud)
 
-[View More](https://demos.creative-tim.com/argon-dashboard-angular/dashboard)
-
+[View More](https://demos.creative-tim.com/vite-soft-ui-dashboard/#/dashboard?ref=readme-vitesud).
 
 ## Quick start
 
-- [Download from Github](https://github.com/creativetimofficial/argon-dashboard-angular/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/argon-dashboard-angular?ref=ada-github-readme).
-- Clone the repo: `git clone https://github.com/creativetimofficial/argon-dashboard-angular.git`.
+Quick start options:
 
+- Download from [Creative Tim](https://www.creative-tim.com/product/vite-soft-ui-dashboard?ref=readme-vitesud).
+
+## Terminal Commands
+
+1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
+2. Navigate to the root ./ directory of the product and run `npm install` to install our local dependencies.
 
 ## Documentation
-The documentation for the Argon Dashboard Angular is hosted at our [website](https://demos.creative-tim.com/argon-dashboard-angular/documentation/tutorial?ref=ada-github-readme).
 
+The documentation for the Soft UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/vue/overview/soft-ui-dashboard/?ref=readme-vitesud).
 
-## File Structure
+### What's included
+
 Within the download you'll find the following directories and files:
 
 ```
-argon-dashboard-angular
-├── CHANGELOG.md
+vite-soft-ui-dashboard
+├── Dockerfile
+├── LICENSE.md
 ├── README.md
-├── angular.json
-├── e2e
+├── index.html
 ├── package.json
+├── public
+│   └── favicon.ico
 ├── src
-│   ├── app
-│   │   ├── app.component.html
-│   │   ├── app.component.scss
-│   │   ├── app.component.spec.ts
-│   │   ├── app.component.ts
-│   │   ├── app.module.ts
-│   │   ├── app.routing.ts
-│   │   ├── components
-│   │   │   ├── components.module.spec.ts
-│   │   │   ├── components.module.ts
-│   │   │   ├── footer
-│   │   │   │   ├── footer.component.html
-│   │   │   │   ├── footer.component.scss
-│   │   │   │   ├── footer.component.spec.ts
-│   │   │   │   └── footer.component.ts
-│   │   │   ├── navbar
-│   │   │   │   ├── navbar.component.html
-│   │   │   │   ├── navbar.component.scss
-│   │   │   │   ├── navbar.component.spec.ts
-│   │   │   │   └── navbar.component.ts
-│   │   │   └── sidebar
-│   │   │       ├── sidebar.component.html
-│   │   │       ├── sidebar.component.scss
-│   │   │       ├── sidebar.component.spec.ts
-│   │   │       └── sidebar.component.ts
-│   │   ├── layouts
-│   │   │   ├── admin-layout
-│   │   │   │   ├── admin-layout.component.html
-│   │   │   │   ├── admin-layout.component.scss
-│   │   │   │   ├── admin-layout.component.spec.ts
-│   │   │   │   ├── admin-layout.component.ts
-│   │   │   │   ├── admin-layout.module.ts
-│   │   │   │   └── admin-layout.routing.ts
-│   │   │   └── auth-layout
-│   │   │       ├── auth-layout.component.html
-│   │   │       ├── auth-layout.component.scss
-│   │   │       ├── auth-layout.component.spec.ts
-│   │   │       ├── auth-layout.component.ts
-│   │   │       ├── auth-layout.module.ts
-│   │   │       └── auth-layout.routing.ts
-│   │   ├── pages
-│   │   │   ├── dashboard
-│   │   │   │   ├── dashboard.component.html
-│   │   │   │   ├── dashboard.component.scss
-│   │   │   │   ├── dashboard.component.spec.ts
-│   │   │   │   └── dashboard.component.ts
-│   │   │   ├── icons
-│   │   │   │   ├── icons.component.html
-│   │   │   │   ├── icons.component.scss
-│   │   │   │   ├── icons.component.spec.ts
-│   │   │   │   └── icons.component.ts
-│   │   │   ├── login
-│   │   │   │   ├── login.component.html
-│   │   │   │   ├── login.component.scss
-│   │   │   │   ├── login.component.spec.ts
-│   │   │   │   └── login.component.ts
-│   │   │   ├── maps
-│   │   │   │   ├── maps.component.html
-│   │   │   │   ├── maps.component.scss
-│   │   │   │   ├── maps.component.spec.ts
-│   │   │   │   └── maps.component.ts
-│   │   │   ├── register
-│   │   │   │   ├── register.component.html
-│   │   │   │   ├── register.component.scss
-│   │   │   │   ├── register.component.spec.ts
-│   │   │   │   └── register.component.ts
-│   │   │   ├── tables
-│   │   │   │   ├── tables.component.html
-│   │   │   │   ├── tables.component.scss
-│   │   │   │   ├── tables.component.spec.ts
-│   │   │   │   └── tables.component.ts
-│   │   │   └── user-profile
-│   │   │       ├── user-profile.component.html
-│   │   │       ├── user-profile.component.scss
-│   │   │       ├── user-profile.component.spec.ts
-│   │   │       └── user-profile.component.ts
-│   │   └── variables
-│   │       └── charts.ts
-│   ├── assets
-│   │   ├── fonts
-│   │   ├── img
-│   │   ├── scss
-│   │   │   ├── angular-differences
-│   │   │   ├── argon.scss
-│   │   │   ├── core
-│   │   │   └── custom
-│   │   └── vendor
-│   ├── browserslist
-│   ├── environments
-│   ├── favicon.ico
-│   ├── index.html
-│   ├── main.ts
-│   ├── polyfills.ts
-│   ├── styles.scss
-│   ├── test.ts
-│   ├── tsconfig.app.json
-│   ├── tsconfig.spec.json
-│   └── tslint.json
-├── tsconfig.json
-└── tslint.json
+│   ├── App.vue
+│   ├── assets
+│   │   ├── css
+│   │   ├── fonts
+│   │   ├── img
+│   │   ├── js
+│   │   └── scss
+│   ├── components
+│   │   ├── Icon.vue
+│   │   ├── VsudAlert.vue
+│   │   ├── VsudAvatar.vue
+│   │   ├── VsudBadge.vue
+│   │   ├── VsudButton.vue
+│   │   ├── VsudCheckbox.vue
+│   │   ├── VsudInput.vue
+│   │   ├── VsudPagination.vue
+│   │   ├── VsudPaginationItem.vue
+│   │   ├── VsudProgress.vue
+│   │   ├── VsudRadio.vue
+│   │   ├── VsudSwitch.vue
+│   │   └── VsudTextarea.vue
+│   ├── examples
+│   │   ├── Breadcrumbs.vue
+│   │   ├── Cards
+│   │   │   ├── Card.vue
+│   │   │   ├── DefaultInfoCard.vue
+│   │   │   └── MasterCard.vue
+│   │   ├── Charts
+│   │   │   ├── ActiveUsersChart.vue
+│   │   │   └── GradientLineChart.vue
+│   │   ├── Configurator.vue
+│   │   ├── Footer.vue
+│   │   ├── Navbars
+│   │   │   └── Navbar.vue
+│   │   ├── PageLayout
+│   │   │   ├── Footer.vue
+│   │   │   └── Navbar.vue
+│   │   └── Sidenav
+│   │       ├── SidenavCard.vue
+│   │       ├── SidenavCollapse.vue
+│   │       ├── SidenavList.vue
+│   │       └── index.vue
+│   ├── main.js
+│   ├── router
+│   │   └── index.js
+│   ├── soft-ui-dashboard.js
+│   ├── store
+│   │   └── index.js
+│   └── views
+│       ├── Billing.vue
+│       ├── Dashboard.vue
+│       ├── Home.vue
+│       ├── Profile.vue
+│       ├── Rtl.vue
+│       ├── SignIn.vue
+│       ├── SignUp.vue
+│       ├── Tables.vue
+│       ├── VirtualReality.vue
+│       └── components
+│           ├── AuthorsTable.vue
+│           ├── BillingCard.vue
+│           ├── CardCalendar.vue
+│           ├── CardEmail.vue
+│           ├── CardMessage.vue
+│           ├── CardPlayer.vue
+│           ├── CardToDo.vue
+│           ├── InvoiceCard.vue
+│           ├── NavPill.vue
+│           ├── OrdersCard.vue
+│           ├── PaymentCard.vue
+│           ├── ProfileCard.vue
+│           ├── ProjectOverviewCard.vue
+│           ├── ProjectsCard.vue
+│           ├── ProjectsTable.vue
+│           └── TransactionCard.vue
+├── vite.config.js
+└── yarn.lock
 ```
-
 
 ## Browser Support
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
-
-
+<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
 ## Resources
-- Demo: <https://demos.creative-tim.com/argon-dashboard-angular/dashboard?ref=ada-github-readme>
-- Download Page: <https://www.creative-tim.com/product/argon-dashboard-angular?ref=ada-github-readme>
-- Documentation: <https://demos.creative-tim.com/argon-dashboard-angular/documentation/tutorial?ref=ada-github-readme>
-- License Agreement: <https://www.creative-tim.com/license?ref=ada-github-readme>
-- Support: <https://www.creative-tim.com/contact-us?ref=ada-github-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/argon-dashboard-angular/issues?ref=ada-github-readme)
+
+- [Live Preview](https://demos.creative-tim.com/vite-soft-ui-dashboard/#/dashboard?ref=readme-vitesud)
+- [Download Page](https://www.creative-tim.com/product/vite-soft-ui-dashboard?ref=readme-vitesud)
+- Documentation is [here](https://www.creative-tim.com/learning-lab/vue/overview/soft-ui-dashboard/?ref=readme-vitesud)
+- [License Agreement](https://www.creative-tim.com/license?ref=readme-vitesud)
+- [Support](https://www.creative-tim.com/contact-us?ref=readme-vitesud)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/vite-soft-ui-dashboard/issues)
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Material Kit. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Vite Soft UI Dashboard. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Material Kit. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=ada-github-readme).
+1. Make sure that you are using the latest version of the Vite Soft UI Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/vite-soft-ui-dashboard?ref=readme-vitesud).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
+## Technical Support or Questions
+
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-vitesud) instead of opening an issue.
+
 ## Licensing
 
-- Copyright 2018 Creative Tim (https://www.creative-tim.com/?ref=ada-github-readme)
-
-- Licensed under MIT (https://github.com/creativetimofficial/argon-dashboard-angular/blob/master/LICENSE.md)
+- Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-vitesud)
+- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-vitesud)
 
 ## Useful Links
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w?ref=creativetim)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=ada-github-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/?ref=ada-github-readme)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=ada-github-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=ada-github-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=ada-github-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=ada-github-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=ada-github-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=ada-github-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=ada-github-readme)
+- [More products](https://www.creative-tim.com/templates?ref=readme-vitesud) from Creative Tim
 
-### Social Media
+- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
-Twitter: <https://twitter.com/CreativeTim?ref=creativetim>
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-vitesud) from Creative Tim
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-vitesud) (earn money)
 
-Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
+##### Social Media
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+Twitter: <https://twitter.com/CreativeTim>
+
+Facebook: <https://www.facebook.com/CreativeTim>
+
+Dribbble: <https://dribbble.com/creativetim>
+
+Google+: <https://plus.google.com/+CreativetimPage>
+
+Instagram: <https://instagram.com/creativetimofficial>
